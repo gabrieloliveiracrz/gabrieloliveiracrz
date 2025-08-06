@@ -1,8 +1,9 @@
 # 👋 Olá! Eu sou o Gabriel Ferreira
 
-Sou Engenheiro da Computação com experiência em desenvolvimento web desde 2022, apaixonado por transformar ideias em soluções modernas, funcionais e eficientes. Valorizo a performance, as boas práticas de código e o aprendizado contínuo como pilares da minha atuação profissional.
+Atualmente, trabalho na AmstedMaxion, desenvolvendo aplicações web com PHP e JavaScript, em sistemas internos voltados à área industrial.
 
-Atualmente, trabalho na AmstedMaxion desenvolvendo aplicações web com PHP e JavaScript, contribuindo em sistemas internos voltados à área industrial. Paralelamente, busco me aperfeiçoar em tecnologias como React, Next.js, TypeScript e Node.js, visando ampliar minha atuação com stacks modernas no ecossistema web.
+Em paralelo, venho me aperfeiçoando em tecnologias como React, Next.js, TypeScript e Node.js, com o objetivo de ampliar minha atuação com stacks modernas no ecossistema web.
+
 ---
 
 ## 💻 Tecnologias e Ferramentas
