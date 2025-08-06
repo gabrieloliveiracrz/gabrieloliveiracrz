@@ -2,8 +2,7 @@
 
 Sou Engenheiro da Computação com experiência em **desenvolvimento web** desde 2022. Tenho paixão por transformar ideias em soluções modernas e funcionais, com foco em performance, boas práticas de código e aprendizado contínuo.
 
-Atualmente, me dedico principalmente ao desenvolvimento de aplicações web usando **React, Next.js, TypeScript** e **Node.js**, e também estou explorando tecnologias interativas como **Pixi.js**, com foco em jogos e interfaces ricas.
-
+Atualmente, me dedico ao desenvolvimento de aplicações web com React, Next.js, TypeScript e Node.js, mantendo o foco constante na evolução técnica e no aprendizado contínuo.
 ---
 
 ## 💻 Tecnologias e Ferramentas
