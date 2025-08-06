@@ -26,7 +26,7 @@ Atualmente, me dedico principalmente ao desenvolvimento de aplicações web usan
   Uma plataforma web para sessões de RPG com grid dinâmico, movimentação de personagens, fog of war e mais.  
   Tecnologias: **Next.js**, **Pixi.js**, **TypeScript**
 
-- 🧪 **[Apontamento de Ensaios Não Destrutivos (END)](https://github.com/gabrieloliveiracrz)** *(sistema interno)*  
+- 🧪 **[Apontamento de Ensaios Não Destrutivos (END)** *(projeto interno)*  
   Sistema web para digitalizar o processo de apontamento de defeitos em peças industriais, substituindo fichas em papel e integrando com o fluxo de produção.  
   Tecnologias: **PHP**, **Javascript*, **MYSQL**, **Informix**
 
