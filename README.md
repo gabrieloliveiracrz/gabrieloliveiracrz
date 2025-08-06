@@ -8,10 +8,11 @@ Atualmente, me dedico principalmente ao desenvolvimento de aplicações web usan
 
 ## 💻 Tecnologias e Ferramentas
 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![PixiJS](https://img.shields.io/badge/-Pixi.js-8C43F7?logo=pixijs&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
@@ -25,8 +26,13 @@ Atualmente, me dedico principalmente ao desenvolvimento de aplicações web usan
   Uma plataforma web para sessões de RPG com grid dinâmico, movimentação de personagens, fog of war e mais.  
   Tecnologias: **Next.js**, **Pixi.js**, **TypeScript**
 
+- 🧪 **[Apontamento de Ensaios Não Destrutivos (END)](https://github.com/gabrieloliveiracrz)** *(sistema interno)*  
+  Sistema web para digitalizar o processo de apontamento de defeitos em peças industriais, substituindo fichas em papel e integrando com o fluxo de produção.  
+  Tecnologias: **PHP**, **Javascript*, **MYSQL**, **Informix**
+
 - 🏭 **Dashboard Industrial - Aciaria** *(projeto interno)*  
   Aplicação desenvolvida para substituir planilhas robustas com visualização e automação de dados de produção em tempo real.
+  Tecnologias: **PHP**, **Javascript*, **MYSQL**, **Informix**
 
 ---
 
