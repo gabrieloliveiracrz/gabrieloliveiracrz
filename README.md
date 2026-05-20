@@ -20,29 +20,6 @@ Em paralelo, venho me aperfeiçoando em tecnologias como React, Next.js, TypeScr
 
 ---
 
-## 🚀 Projetos em Destaque
-
-- 🎲 **[Sistema de RPG Online](https://github.com/gabrieloliveiracrz)** *(em desenvolvimento)*  
-  Uma plataforma web para sessões de RPG com grid dinâmico, movimentação de personagens, fog of war e mais.  
-  Tecnologias: **Next.js**, **Pixi.js**, **TypeScript**
-
-- 🧪 **[Apontamento de Ensaios Não Destrutivos (END)** *(projeto interno)*  
-  Sistema web para digitalizar o processo de apontamento de defeitos em peças industriais, substituindo fichas em papel e integrando com o fluxo de produção.  
-  Tecnologias: **PHP**, **Javascript*, **MYSQL**, **Informix**
-
-- 🏭 **Dashboard Industrial - Aciaria** *(projeto interno)*  
-  Aplicação desenvolvida para substituir planilhas robustas com visualização e automação de dados de produção em tempo real.
-  Tecnologias: **PHP**, **Javascript*, **MYSQL**, **Informix**
-
----
-
-## 📈 Estatísticas GitHub
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieloliveiracrz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieloliveiracrz&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-link-aqui)
